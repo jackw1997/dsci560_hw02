@@ -12,3 +12,4 @@ How to start:
   - problem 1c: python3 hw02_1c.py, output file name: hw02_1c.png  
   
  Zenodo 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4049774.svg)](https://doi.org/10.5281/zenodo.4049774)
