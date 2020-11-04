@@ -48,7 +48,7 @@ Add dependencies(we need to install numpy and matplotlib):
 And we have the terminal:
 
 <p align="center">
-    <img src="terminal.png" width="500px"/>
+    <img src="terminal.png" width="1000px"/>
 </p>
 
 And result:
